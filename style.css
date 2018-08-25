@@ -45,7 +45,7 @@ body {
 	font: 15px/20px monospace;
     letter-spacing: -0.3px;
 	cursor: move;
-	    box-shadow: #3F8244 3px 3px 0, 6px 6px 0px #56A25F;
+	    box-shadow: #3F8244 6px 6px 0, 12px 12px 0px #56A25F;
 	border-style: solid;
 	border-color: #006007;
 	background-color: #eee;

@@ -61,10 +61,10 @@ body {
     #logo-touch {
         display: none;
 	    position: absolute;
-	    left: 50%;
-	    top: 7px;
-	    margin-left: -100px;
-	    width: 211px;
+    left: 50%;
+    top: 6px;
+    margin-left: -120px;
+    width: 230px;
 		margin: left:10%;
     }
 

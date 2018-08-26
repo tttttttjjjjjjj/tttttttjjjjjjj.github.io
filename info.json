@@ -4,10 +4,12 @@
 	"about" : "Design Program Manager",
 	"menu" : {
 		"About" : "https://docs.google.com/document/d/11plRa3VWMuCW1OOlGQLxblPO5x1gvccfQbmL4vGJJ9g/edit?usp=sharing",
+		"Lago Projects" : "http://lagoprojects.com/",
 		"Fantasy Table" : "https://docs.google.com/spreadsheets/d/1FiQha3ZMKlRJ6AWioyVhyCEqxgapzv0QDPlD3UsfO5k/edit#gid=410930786",
 		"Referees" : "https://www.google.com/maps/d/embed?mid=1xfdr16FB7e3MnnGlvS31NLdR5nsSzcFH",
 		"World Cup" : "https://docs.google.com/spreadsheets/d/14gQMtnNfzBNp-ZJnuYmOwRkVm2kNtUto7R-6WNkJ7qE/edit?usp=sharing",
 		"Watermelon (Desktop only)" : "https://docs.google.com/presentation/d/e/2PACX-1vQ0M2QY9xDKGArHZNvW7wWN1V5WRGYpd9lEavqUEkyUQ5AlTJJYs49PH4g7Bghyp2qQzUB34CNqDcai/embed?start=true&loop=true&delayms=3000",
 		"Sole Survivors" : "https://en.wikipedia.org/wiki/List_of_sole_survivors_of_airline_accidents_or_incidents"
+
 	}
 }

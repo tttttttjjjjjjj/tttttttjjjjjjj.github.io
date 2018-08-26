@@ -60,11 +60,11 @@ body {
 }
     #logo-touch {
         display: none;
-		position: absolute;
-    	left: 50%;
-    	top: 12px;
-    	margin-left: -80px;
-    	width: 160px;
+	    position: absolute;
+	    left: 50%;
+	    top: 7px;
+	    margin-left: -100px;
+	    width: 211px;
 		margin: left:10%;
     }
 

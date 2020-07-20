@@ -3,12 +3,6 @@
 	"logo" : "logo.png",
 	"about" : "Design Program Manager",
 	"menu" : {
-		"About" : "https://docs.google.com/document/d/11plRa3VWMuCW1OOlGQLxblPO5x1gvccfQbmL4vGJJ9g/edit?usp=sharing",
-		/* "Lago Projects (Closed)" : "https://www.artsy.net/article/artsy-editorial-sky-high-san-francisco-rents-driving-gallerists-apartments",
-		"Fantasy Table" : "https://docs.google.com/spreadsheets/d/1FiQha3ZMKlRJ6AWioyVhyCEqxgapzv0QDPlD3UsfO5k/edit#gid=410930786",
-		"Referees" : "https://www.google.com/maps/d/embed?mid=1xfdr16FB7e3MnnGlvS31NLdR5nsSzcFH",
-		"World Cup" : "https://docs.google.com/spreadsheets/d/14gQMtnNfzBNp-ZJnuYmOwRkVm2kNtUto7R-6WNkJ7qE/edit?usp=sharing"
-		*/
-
+		"About" : "https://docs.google.com/document/d/11plRa3VWMuCW1OOlGQLxblPO5x1gvccfQbmL4vGJJ9g/edit?usp=sharing"
 	}
 }
